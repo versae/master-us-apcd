@@ -4,3 +4,4 @@ beautifulsoup4
 requests
 requests-html
 html5lib
+pandas
