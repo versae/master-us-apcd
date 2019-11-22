@@ -5,3 +5,5 @@ requests
 requests-html
 html5lib
 pandas
+chromedriver_binary
+selenium
